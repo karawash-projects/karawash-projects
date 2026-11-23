@@ -1,4 +1,4 @@
-### Hi, I'm Ahmad Karawash
+### Hi, I'm Ahmad
 
 **Principal Engineer & AI Scientist** based in Canada. I build open-source infrastructure for running AI agents in production: agents that survive crashes, pause for human approval, run in sandboxes, and leave an audit trail.
 
